@@ -27,8 +27,15 @@ It's usually a big to predict or evalute the price of a house depending on some 
 > In this section, <br> i. The dataset was splitted into X(Observation Matrix) and y(Target Vector)<br>ii. Removal of *Multicollinearity* using the value of *Variation Inflation Factor*.<br>iii.Splitting into `X_train`, `y_train`, `X_test`, `y_test`(training and test dataset).<br>iv.Implementation of `sklearn.linear_model.LinearRegression()` and checking for *R2_score*, *Homoscedasticity* and *distribution of error*.<br>v.Checking for importance of various feature given by the model.<br>Implementation of `sklearn.linear_model.Lasso()` and `sklearn.tree.DecisionTreeRegressor` and the plot of the tree and the linear relation between the target values and the predicted values.
 
 ## To Do
-i. Implement a pipeline in this problem statement.
-ii. Increament of the accuracy of the model :arrow_upper_right: .
-iii. Deployment.
+i. Implement a pipeline in this problem statement.<br>
+ii. Increament of the accuracy of the model :arrow_upper_right: .<br>
+iii. Deployment.<br>
 
-## Technology Used
+## Technology Used 
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
+## Team
+[Manojit Roy](https://www.linkedin.com/in/manojit-roy-8a93a1183/)
+
+## Credit
+This dataset is provided by Internshala Machine Learning Training.
